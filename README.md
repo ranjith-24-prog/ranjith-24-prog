@@ -1,3 +1,5 @@
+[Deutsch 🇩🇪](README_DE.md)
+
 # Hi, I'm Ranjith Mahesh 👋
 
 🚀 AI Software Engineer (Data Science & ML) building end-to-end AI products — LLM/RAG systems, ML pipelines, and data-driven applications — with a strong focus on data quality and deployability.
