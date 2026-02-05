@@ -24,18 +24,18 @@
 
 ## Ausgewählte Projekte
 - ⭐ **LLM + RAG Assistant** — Python-basiertes RAG-System mit Vektor-Embeddings, PostgreSQL + pgvector Ähnlichkeitssuche und LLM-Antworten (CRISP-DM-Workflow).  
-  Details: https://ranjith-mahesh-en.carrd.co/#llm
+  Details: https://ranjith-mahesh-de.carrd.co/#llm
 
 - 📈 **Marktsegmentierung & Prognosen (GCP)** — BigQuery ML + Kubeflow-Pipeline für regionale Forecasts, inklusive Dashboards zur Entscheidungsunterstützung.  
-  Details: https://ranjith-mahesh-en.carrd.co/#gcp
+  Details: https://ranjith-mahesh-de.carrd.co/#gcp
 
 - 🔎 **Erklärbare Zeitreihen-ML** — Forecasting-Modelle mit Feature-Importance/Explainability (LIME, Integrated Gradients, Permutation Importance).  
-  Details: https://ranjith-mahesh-en.carrd.co/#feaimp
+  Details: https://ranjith-mahesh-de.carrd.co/#feaimp
 
 - 🏎️ **Bachelor-Projekte (Automotive/Go-Kart)** — praxisnahe Engineering-Builds, Designarbeit und dokumentierte Ergebnisse.  
-  Details: https://ranjith-mahesh-en.carrd.co
+  Details: https://ranjith-mahesh-de.carrd.co
 
 ## Links
-- 🌐 Portfolio: https://ranjith-mahesh-en.carrd.co
+- 🌐 Portfolio: https://ranjith-mahesh-de.carrd.co
 - 💼 LinkedIn: https://www.linkedin.com/in/ranjith-mahesh/
 - 📫 E-Mail: 24mranjith@gmail.com
