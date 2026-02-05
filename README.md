@@ -1,4 +1,4 @@
-[Deutsch 🇩🇪](README_DE.md)
+[Über mich auf Deutsch 🇩🇪](README_DE.md)
 
 # Hi, I'm Ranjith Mahesh 👋
 
