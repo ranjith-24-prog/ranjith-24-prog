@@ -1,41 +1,22 @@
-[Englisch](README.md)
+[English version](README.md)
 
+# Hallo, ich bin Ranjith Mahesh
 
-# Hallo, ich bin Ranjith Mahesh 👋
+**AI Engineer** · GenAI · Agentic AI · Machine Learning · Data Science
 
-🚀 KI-Software Engineer (Data Science & ML) und entwickle End-to-End-KI-Produkte – LLM/RAG-Systeme, ML-Pipelines und datengetriebene Anwendungen – mit starkem Fokus auf Datenqualität und deploybare, robuste Lösungen.
+Ich helfe Teams, AI-Ideen in Systeme zu verwandeln, die Menschen wirklich nutzen und denen sie vertrauen. Nahezu fünf Jahre Erfahrung mit AI- und ML-Lösungen von der Idee bis zum Produktivbetrieb, bei Accenture und in der F&E der NgC GmbH in Deutschland.
 
-- 🎓 M.Sc. Digital Engineering @ Otto-von-Guericke-Universität Magdeburg
-- 🧪 Werkstudent (F&E / Technologische Innovation) @ NgC GmbH
-- 🏢 Zuvor: 2,5+ Jahre @ Accenture mit datenintensiven ERP-Workflows (Banking-/ATM-Technologie-Kunde)
-
-## Was ich mache
-- Entwicklung von Applied-AI-Systemen, die Retrieval + Modellierung + Evaluierung kombinieren, um Wissen in Produkten nutzbar zu machen.
-- Umsetzung von Data-Science-Workflows End-to-End: Problemverständnis → Datenaufbereitung → Modellierung → Evaluierung → Umsetzung/Delivery (CRISP-DM-orientiert).
-- Sicher in Backend- und Daten-Themen mit Python, SQL und reproduzierbaren Umgebungen.
-
-## Tech Stack
-- KI/GenAI: LLM-Anwendungen, RAG, Vektor-Embeddings, PostgreSQL + pgvector (Vektorsuche)
-- ML/Data Science: scikit-learn, XGBoost, PyTorch, TensorFlow; Zeitreihenprognosen; Erklärbarkeit (LIME, Integrated Gradients, Permutation Importance)
-- Backend/Daten: Python, SQL; PostgreSQL, SQLite; REST-APIs (falls zutreffend)
-- Cloud/MLOps: GCP (BigQuery, Kubeflow); Docker; Git
-- BI: Looker Studio, Power BI
-- Sprachen: Englisch (C1), Deutsch (B2)
+- AI Engineer (Werkstudent, F&E) @ NgC GmbH
+- M.Sc. Digital Engineering @ Otto-von-Guericke-Universität Magdeburg · Forschung präsentiert auf der IEEE ETFA 2026
+- Deutsch C1 · Englisch C2 · offen für Stellen deutschlandweit
 
 ## Ausgewählte Projekte
-- ⭐ **LLM + RAG Assistant** — Python-basiertes RAG-System mit Vektor-Embeddings, PostgreSQL + pgvector Ähnlichkeitssuche und LLM-Antworten (CRISP-DM-Workflow).  
-  Details: https://ranjith-mahesh-de.carrd.co/#llm
 
-- 📈 **Marktsegmentierung & Prognosen (GCP)** — BigQuery ML + Kubeflow-Pipeline für regionale Forecasts, inklusive Dashboards zur Entscheidungsunterstützung.  
-  Details: https://ranjith-mahesh-de.carrd.co/#gcp
+- **FMEA Knowledge Reuse Assistant** – hilft Engineering-Teams, frühere Risikoanalysen wiederzuverwenden; jeder Vorschlag wird fachlich geprüft (Masterarbeit, IEEE ETFA 2026) · [Demo](https://fmea-app-validation.streamlit.app) · [Code](https://github.com/ranjith-24-prog/fmea_ppr_validation)
+- **LLM-basierte Anforderungsautomatisierung** – überführt natürlichsprachliche Anforderungen in Minuten in SysML-Diagramme · [Demo](https://llmautomation.streamlit.app) · [Code](https://github.com/ranjith-24-prog/LLM-Based-Automation-of-MBSE-Requirements-Modeling-main)
+- **Explainable AI für den Energieverbrauch von CNC-Maschinen** – sagt den Energieverbrauch vorher und zeigt, was ihn treibt · [Demo](https://featureimportance.streamlit.app) · [Code](https://github.com/ranjith-24-prog/Feature_Importance_Time_Series)
+- **Absatz- und Bedarfsprognose auf Google Cloud** – automatisierte ML-Pipeline, die SAP-Daten in über 7.000 Prognosen überführt · [Presentation](https://drive.google.com/file/d/1E-68_yVs6m6rFNYUoeF-QAxufesQ9Hmm/view?usp=share_link) · [Code](https://github.com/ranjith-24-prog/gcp_market_prediction)
 
-- 🔎 **Erklärbare Zeitreihen-ML** — Forecasting-Modelle mit Feature-Importance/Explainability (LIME, Integrated Gradients, Permutation Importance).  
-  Details: https://ranjith-mahesh-de.carrd.co/#feaimp
+**Stack:** LangGraph · LangChain · RAG · MCP · Python · PyTorch · scikit-learn · FastAPI · Docker · PostgreSQL/pgvector · GCP · Azure DevOps
 
-- 🏎️ **Bachelor-Projekte (Automotive/Go-Kart)** — praxisnahe Engineering-Builds, Designarbeit und dokumentierte Ergebnisse.  
-  Details: https://ranjith-mahesh-de.carrd.co
-
-## Links
-- 🌐 Portfolio: https://ranjith-mahesh-de.carrd.co
-- 💼 LinkedIn: https://www.linkedin.com/in/ranjith-mahesh/
-- 📫 E-Mail: 24mranjith@gmail.com
+[Portfolio](https://ranjith-mahesh.netlify.app/?lang=de) · [LinkedIn](https://www.linkedin.com/in/ranjith-mahesh/) · [24mranjith@gmail.com](mailto:24mranjith@gmail.com)
