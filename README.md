@@ -1,40 +1,22 @@
-[Über mich auf Deutsch 🇩🇪](README_DE.md)
+[Deutsche Version](README_DE.md)
 
-# Hi, I'm Ranjith Mahesh 👋
+# Hi, I'm Ranjith Mahesh
 
-🚀 AI Software Engineer (Data Science & ML) building end-to-end AI products — LLM/RAG systems, ML pipelines, and data-driven applications — with a strong focus on data quality and deployability.
+**AI Engineer** · GenAI · Agentic AI · Machine Learning · Data Science
 
-- 🎓 M.Sc. Digital Engineering @ Otto-von-Guericke University Magdeburg
-- 🧪 Working Student (R&D / Technological Innovation) @ NgC GmbH
-- 🏢 Previously: 2.5+ years @ Accenture delivering data-intensive ERP workflows (banking/ATM tech client)
+I help teams turn AI ideas into systems people actually use and trust. Nearly five years of taking AI and ML solutions from idea to production, at Accenture and in R&D at NgC GmbH in Germany.
 
-## What I do
-- Build applied AI systems that combine retrieval + modeling + evaluation to make knowledge usable in products.
-- Develop data science workflows end-to-end: problem framing → data prep → modeling → evaluation → delivery (CRISP-DM-style).
-- Work comfortably across backend + data layers using Python, SQL, and reproducible environments.
+- AI Engineer (Working Student, R&D) @ NgC GmbH
+- M.Sc. Digital Engineering @ Otto-von-Guericke-Universität Magdeburg · research presented at IEEE ETFA 2026
+- English C2 · German C1 · open to roles across Germany
 
-## Tech Stack
-- AI/GenAI: LLM applications, RAG, vector embeddings, PostgreSQL + pgvector (vector search)
-- ML/Data Science: scikit-learn, XGBoost, PyTorch, TensorFlow; time-series forecasting; explainability (LIME, Integrated Gradients, permutation importance)
-- Backend/Data: Python, SQL; PostgreSQL, SQLite; REST APIs (where applicable)
-- Cloud/MLOps: GCP (BigQuery, Kubeflow); Docker; Git
-- BI: Looker Studio, Power BI
-- Languages: English (C1), German (B2)
+## Featured projects
 
-## Featured Projects
-- ⭐ **LLM + RAG Assistant** — Python-based RAG system with vector embeddings, PostgreSQL + pgvector similarity search, and LLM responses (CRISP-DM workflow).  
-  Details: https://ranjith-mahesh-en.carrd.co/#llm
+- **FMEA Knowledge Reuse Assistant** – helps engineers reuse past risk analyses, with every suggestion reviewed by an expert (Master's thesis, IEEE ETFA 2026) · [Demo](https://fmea-app-validation.streamlit.app) · [Code](https://github.com/ranjith-24-prog/fmea_ppr_validation)
+- **LLM-Based Requirements Automation** – turns plain-language requirements into SysML diagrams in minutes · [Demo](https://llmautomation.streamlit.app) · [Code](https://github.com/ranjith-24-prog/LLM-Based-Automation-of-MBSE-Requirements-Modeling-main)
+- **Explainable AI for CNC Machine Energy Use** – predicts machine energy use and shows what drives it · [Demo](https://featureimportance.streamlit.app) · [Code](https://github.com/ranjith-24-prog/Feature_Importance_Time_Series)
+- **Sales & Demand Forecasting on Google Cloud** – automated ML pipeline turning SAP data into 7,000+ predictions · [Presentation](https://drive.google.com/file/d/1E-68_yVs6m6rFNYUoeF-QAxufesQ9Hmm/view?usp=share_link) · [Code](https://github.com/ranjith-24-prog/gcp_market_prediction)
 
-- 📈 **Market Segmentation & Forecasting (GCP)** — BigQuery ML + Kubeflow pipeline for regional forecasting, with dashboards for decision support.  
-  Details: https://ranjith-mahesh-en.carrd.co/#gcp
+**Stack:** LangGraph · LangChain · RAG · MCP · Python · PyTorch · scikit-learn · FastAPI · Docker · PostgreSQL/pgvector · GCP · Azure DevOps
 
-- 🔎 **Explainable Time-Series ML** — forecasting models with feature importance / explainability (LIME, Integrated Gradients, permutation importance).  
-  Details: https://ranjith-mahesh-en.carrd.co/#feaimp
-
-- 🏎️ **Bachelor Projects (Automobile/Go‑Kart)** — hands-on engineering builds, design work, and documented outcomes.  
-  Details: https://ranjith-mahesh-en.carrd.co
-
-## Links
-- 🌐 Portfolio: https://ranjith-mahesh-en.carrd.co
-- 💼 LinkedIn: https://www.linkedin.com/in/ranjith-mahesh/
-- 📫 Email: 24mranjith@gmail.com
+[Portfolio](https://ranjith-mahesh.netlify.app) · [LinkedIn](https://www.linkedin.com/in/ranjith-mahesh/) · [24mranjith@gmail.com](mailto:24mranjith@gmail.com)
